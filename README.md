@@ -1,6 +1,6 @@
-# WebDataRocks integration with Django
+# Example of integrating WebDataRocks with the Django framework
 
-This repository holds the source code for a simple [Django](https://www.djangoproject.com/) and [WebDataRocks](https://www.webdatarocks.com/) project.
+This repository contains a sample project that shows how to integrate [WebDataRocks](https://www.webdatarocks.com/) with the [Django framework](https://www.djangoproject.com/).
 
 ## Prerequisites
 
@@ -13,13 +13,13 @@ This repository holds the source code for a simple [Django](https://www.djangopr
 git clone https://github.com/WebDataRocks/pivot-django.git
 cd pivot-django
 ```
-2. Run the sample project: 
+2. Run the sample project:
 ```bash
 python manage.py runserver
 ```
 Access the project at http://localhost:8000/.
 
-## Learn more
+## Related docs
 For details on how to integrate WebDataRocks into existing Django projects, check out the [integration with Django](https://www.webdatarocks.com/doc/integration-with-django/).
 
 ## Support
