@@ -17,7 +17,7 @@ cd pivot-django
 ```bash
 python3 manage.py runserver
 ```
-You can access the project at http://localhost:8000/.
+You can access the project at `http://localhost:8000/`.
 
 ## Related docs
 For details on how to integrate WebDataRocks into existing Django projects, check out the [integration with Django](https://www.webdatarocks.com/doc/integration-with-django/).
