@@ -4,7 +4,7 @@ This repository contains a sample project that shows how to integrate [WebDataRo
 
 ## Prerequisites
 
-- [Python](https://www.python.org/downloads/)
+- [Python 3](https://www.python.org/downloads/)
 - [Django](https://docs.djangoproject.com/en/4.2/intro/install/#install-django)
 
 ## Run the project
@@ -13,7 +13,12 @@ This repository contains a sample project that shows how to integrate [WebDataRo
 git clone https://github.com/WebDataRocks/pivot-django.git
 cd pivot-django
 ```
-2. Run the sample project:
+2. Run the following command:
+```bash
+python3 manage.py migrate
+```
+This will create database tables for the default Django apps. [Learn about the migrate command](https://docs.djangoproject.com/en/5.0/ref/django-admin/#migrate).
+3. Run the sample project:
 ```bash
 python3 manage.py runserver
 ```
