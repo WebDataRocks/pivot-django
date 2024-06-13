@@ -14,6 +14,7 @@ git clone https://github.com/WebDataRocks/pivot-django.git
 cd pivot-django
 ```
 2. Run the following command:
+
     - On Windows:
     ```bash
     py manage.py migrate
@@ -25,6 +26,7 @@ cd pivot-django
 This will create database tables for the default Django apps. [Learn about the migrate command](https://docs.djangoproject.com/en/5.0/ref/django-admin/#migrate).
 
 3. Run the sample project:
+
     - On Windows:
     ```bash
     py manage.py migrate
