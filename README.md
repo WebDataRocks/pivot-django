@@ -14,15 +14,25 @@ git clone https://github.com/WebDataRocks/pivot-django.git
 cd pivot-django
 ```
 2. Run the following command:
-```bash
-python3 manage.py migrate
-```
+    - On Windows:
+    ```bash
+    py manage.py migrate
+    ```
+    - On macOS or Ubuntu/Linux:
+    ```bash
+    python3 manage.py migrate
+    ```
 This will create database tables for the default Django apps. [Learn about the migrate command](https://docs.djangoproject.com/en/5.0/ref/django-admin/#migrate).
 
 3. Run the sample project:
-```bash
-python3 manage.py runserver
-```
+    - On Windows:
+    ```bash
+    py manage.py migrate
+    ```
+    - On macOS or Ubuntu/Linux:
+    ```bash
+    python3 manage.py runserver
+    ```
 You can access the project at `http://localhost:8000/`.
 
 ## Related docs
