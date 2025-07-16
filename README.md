@@ -29,7 +29,7 @@ This will create database tables for the default Django apps. [Learn about the m
 
     - On Windows:
     ```bash
-    py manage.py migrate
+    py manage.py runserver
     ```
     - On macOS or Ubuntu/Linux:
     ```bash
