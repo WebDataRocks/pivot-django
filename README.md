@@ -8,6 +8,7 @@ This repository contains a sample project that shows how to integrate [WebDataRo
 - [Django](https://docs.djangoproject.com/en/4.2/intro/install/#install-django)
 
 ## Run the project
+
 1. Download or clone this project from GitHub:
 ```bash
 git clone https://github.com/WebDataRocks/pivot-django.git
@@ -38,7 +39,9 @@ This will create database tables for the default Django apps. [Learn about the m
 You can access the project at `http://localhost:8000/`.
 
 ## Related docs
+
 For details on how to integrate WebDataRocks into existing Django projects, check out the [integration with Django](https://www.webdatarocks.com/doc/integration-with-django/).
 
 ## Support
-Feel free to ask WebDataRocks-related questions on [StackOverflow](https://stackoverflow.com/questions/tagged/webdatarocks).
+
+For WebDataRocks-related questions, bug reports and features requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
