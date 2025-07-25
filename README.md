@@ -24,7 +24,7 @@ cd pivot-django
     ```bash
     python3 manage.py migrate
     ```
-This will create database tables for the default Django apps. [Learn about the migrate command](https://docs.djangoproject.com/en/5.0/ref/django-admin/#migrate).
+This will create database tables for the default Django apps. [Learn about the migrate command](https://docs.djangoproject.com/en/5.2/ref/django-admin/#migrate).
 
 3. Run the sample project:
 
