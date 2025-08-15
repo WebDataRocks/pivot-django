@@ -1,6 +1,8 @@
 # Example of integrating WebDataRocks with the Django framework
 
-This repository contains a sample project that shows how to integrate [WebDataRocks](https://www.webdatarocks.com/) with the [Django framework](https://www.djangoproject.com/).
+[![WebDataRocks](https://cdn.webdatarocks.com/readmes/django.png)](https://www.webdatarocks.com/?r=rm_django)
+
+This repository contains a sample project that shows how to integrate [WebDataRocks](https://www.webdatarocks.com/?r=rm_django) with the [Django framework](https://www.djangoproject.com/).
 
 ## Prerequisites
 
@@ -40,7 +42,7 @@ You can access the project at `http://localhost:8000/`.
 
 ## Related docs
 
-For details on how to integrate WebDataRocks into existing Django projects, check out the [integration with Django](https://www.webdatarocks.com/doc/integration-with-django/).
+For details on how to integrate WebDataRocks into existing Django projects, check out the [integration with Django](https://www.webdatarocks.com/doc/integration-with-django/?r=rm_django).
 
 ## Support
 
