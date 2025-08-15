@@ -1,26 +1,57 @@
 #container {
-  padding: 80px 0 0;
+  padding: 100px 0 0;
   color: #555;
   margin: 14px 0;
   text-rendering: optimizeLegibility !important;
 }
 
-#container-border {
+#demo-container {
   margin: 0 80px;
   position: relative;
   display: flex;
-  border: 2px solid rgb(233, 241, 243);
-  border-radius: 2px;
 }
 
-#googlechartContainer {
-  width: 100%;
+#pivot-container {
+  border: 2px solid rgb(233, 241, 243);
+  border-radius: 1.125rem;
 }
 
 @media screen and (max-width: 1050px) {
-  #container {
+  #demo-container {
     padding-top: 140px;
   }
+}
+
+#pivot-container #wdr-toolbar-wrapper #wdr-toolbar {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+
+#pivot-container #wdr-toolbar-wrapper #wdr-toolbar .wdr-toolbar-group-right {
+  right: 0.5rem;
+}
+
+#pivot-container #wdr-toolbar-wrapper~#wdr-pivot-view {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+#pivot-container #wdr-pivot-view {
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-radius: 1rem;
+}
+
+#pivot-container #wdr-toolbar-wrapper~#wdr-pivot-view #wdr-grid-view {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+#pivot-container #wdr-grid-view {
+  border-radius: 1rem;
 }
 
 /* Top menu */

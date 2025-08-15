@@ -5,3 +5,6 @@
 __pycache__
 db.sqlite3
 media
+lib
+bin
+*.cfg
