@@ -50,7 +50,7 @@
   border-top-right-radius: 0px;
 }
 
-#pivot-container #wdr-grid-view {
+#pivot-container #wdr-grid-view, #pivot-container #wdr-popUp-modal-overlay {
   border-radius: 1rem;
 }
 
