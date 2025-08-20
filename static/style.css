@@ -9,9 +9,6 @@
   margin: 0 80px;
   position: relative;
   display: flex;
-}
-
-#pivot-container {
   border: 2px solid rgb(233, 241, 243);
   border-radius: 1.125rem;
 }
