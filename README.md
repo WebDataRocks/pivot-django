@@ -44,6 +44,12 @@ You can access the project at `http://localhost:8000/`.
 
 For details on how to integrate WebDataRocks into existing Django projects, check out the [integration with Django](https://www.webdatarocks.com/doc/js/integration-with-django/?r=rm_django).
 
+## WebDataRocks licensing
+
+This WebDataRocks sample project is released under the MIT license (free and open-source).
+
+[WebDataRocks](https://www.webdatarocks.com/?r=rm_django) is distributed under the terms and conditions of the WebDataRocks End User License Agreement: [https://www.webdatarocks.com/license-agreement/](https://www.webdatarocks.com/license-agreement/?r=rm_django).
+
 ## Support
 
 For WebDataRocks-related questions, bug reports, and feature requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
